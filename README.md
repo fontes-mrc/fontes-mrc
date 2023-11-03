@@ -22,7 +22,6 @@ I'm a Data Engineer and in love with learning new things and technology in gener
 ![](https://img.shields.io/badge/-T--SQL-CC2927?logo=MicrosoftSQLServer&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Presto-5890FF?logo=Presto&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat-square)
 
 <!-- ### Data Analysis / Machine Learning -->
 
